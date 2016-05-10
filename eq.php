@@ -8,7 +8,7 @@ $checkdate2 = date('H').':';//current time
 $ceqstart = date('H').':3';//concert eq start 30min
 $f5min = date('H').':45';//eq announce :45min mark
 //Ship Related
-$ship = 'Ship02'; //Specify Ship (ex: Ship01, Ship10)
+$ship = ''; //Specify Ship (ex: Ship01, Ship10)
 //EQs into an array, specifiy different translation or add new line
 $eqs = array(
 	'インタラプトランキング予告' => 'Interrupt Ranking', 
