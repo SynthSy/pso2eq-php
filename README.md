@@ -4,3 +4,5 @@ A PHP based EQ handler
 Embed config.php and eq.php into a php file of your choice (caution can be big sometimes).
 You will need a source for the EQ notifications (url or local file) for the EQ notice to work, and 
 a server running PHP5.
+
+A demo can be found on http://pso2.arks-visiphone.com/wiki/Main_Page
