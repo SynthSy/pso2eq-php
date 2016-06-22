@@ -49,7 +49,7 @@ $eqs = array(
 	'異常値観測宙域　一斉調査予告' => 'Deep Space Anomally: Darker Den',
 	'旧マザーシップ　作戦予告' => 'ARKS Infested Mothership: Beckoning Darkness',
 	'ＤＦ【巨躯】【敗者】接近予告' => 'Dark Falz [Elder] and Dark Falz [Loser]',
-	'【深遠なる闇】接近予告' => 'Progeny of the Apocalypse: The Profound Darkness',
+	'【深遠なる闇】接近予告' => 'A Perennial Apocalypse: The Profound Darkness',
 	'幻創戦艦・大和出現予告' => 'Unleashed Prestige: Phantom Battleship Yamato',
 	'null' => 'Server in maintenance',
 	);
