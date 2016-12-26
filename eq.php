@@ -51,6 +51,7 @@ $eqs = array(
 	'ＤＦ【巨躯】【敗者】接近予告' => 'Dark Falz [Elder] and Dark Falz [Loser]',
 	'【深遠なる闇】接近予告' => 'A Perennial Apocalypse: The Profound Darkness',
 	'幻創戦艦・大和出現予告' => 'Unleashed Prestige: Phantom Battleship Yamato',
+	'マザー出現予告' => 'Racing the Phantom Mother: ESC-A Falz Mother',
 	'null' => 'Server in maintenance',
 	);
 	$str = '&#80;&#83;&#79;&#50;&nbsp;&#45;&nbsp;';
